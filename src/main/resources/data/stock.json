@@ -1,0 +1,64 @@
+{
+  "robotStock": {
+    "A": {
+      "code": "A",
+      "price": 10.28,
+      "available": 9,
+      "part": "Humanoid Face"
+    },
+    "B": {
+      "code": "B",
+      "price": 24.07,
+      "available": 7,
+      "part": "LCD Face"
+    },
+    "C": {
+      "code": "C",
+      "price": 13.30,
+      "available": 0,
+      "part": "Steampunk Face"
+    },
+    "D": {
+      "code": "D",
+      "price": 28.94,
+      "available": 1,
+      "part": "Arms with Hands"
+    },
+    "E": {
+      "code": "E",
+      "price": 12.39,
+      "available": 3,
+      "part": "Arms with Grippers"
+    },
+    "F": {
+      "code": "F",
+      "price": 30.77,
+      "available": 2,
+      "part": "Mobility with Wheels"
+    },
+    "G": {
+      "code": "G",
+      "price": 55.13,
+      "available": 15,
+      "part": "Mobility with Legs"
+    },
+    "H": {
+      "code": "H",
+      "price": 50.00,
+      "available": 7,
+      "part": "Mobility with Tracks"
+    },
+    "I": {
+      "code": "I",
+      "price": 90.12,
+      "available": 92,
+      "part": "Material Bioplastic"
+    },
+    "J": {
+      "code": "J",
+      "price": 82.31,
+      "available": 15,
+      "part": "Material Metallic"
+    }
+  }
+}
